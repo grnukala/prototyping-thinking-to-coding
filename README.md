@@ -9,7 +9,7 @@ Tell your AI coding agent:
 ```
 Let's clone 
 
-https://github.com/talsraviv/from-thinking-to-coding 
+https://github.com/grnukala/prototyping-thinking-to-coding
 
 into a new top-level directory in this project called "Prototyping prompts"
 ```
