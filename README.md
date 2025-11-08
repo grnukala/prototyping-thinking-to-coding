@@ -1,14 +1,7 @@
-This is how I move from using coding agents as a [product thinking partner](https://talraviv.co/put-llms-to-work/using-cursor-plain-english/intro-to-cursor) to building a "working proof of concept" (i.e. more than a shallow prototype, less than production code) with an AI coding agent.
+This is how I move from using coding agents as a product thinking partner to building a "working proof of concept" (i.e. more than a shallow prototype, less than production code) with an AI coding agent.
 
 _TLDR: These are prompts I use to create a spec, plan, and agents file, and then I just have to say "let's execute."_
 
-## Getting Started
-
-If you're already using an AI coding agent (like Cursor, Claude Code, or similar) as a product thinking partner, here's a [video walkthrough](https://talraviv.co/put-llms-to-work/product-thinking-to-prototyping#and-so-can-you) of how to turn your thoughts into functional prototypes. The steps are also written out below. 
-
-<a target="_blank" href="https://talraviv.co/put-llms-to-work/product-thinking-to-prototyping#and-so-can-you"><img width="742" height="481" alt="video thumbnail" src="https://github.com/user-attachments/assets/98ee291d-b9e1-48c8-8c90-350d53123669" /></a>
-
-_The UI library in the video is [Wired Elements](https://github.com/rough-stuff/wired-elements)._
 
 #### Option 1: Clone into your existing setup
 
@@ -34,9 +27,6 @@ Draft a document covering the "why" and high-level "what" - the product opportun
 
 If you really wanna wing it, just dictate what you're thinking about building and why into your AI coding agent chat box.
 
-"I want to build a children's science museum version of ChatGPT demonstrating visibly how extended thinking works."
-
-If you want to build a learning POC, you might [start with a deep research](https://talraviv.co/from-using-to-building/how-i-built-chatgpt-from-scratch) on the topic you want to prototype.
 
 ### 2. Use an AI coding agent to turn it into a detailed technical specification
 
